@@ -1,4 +1,11 @@
-### Hi there 👋
+# Matt Dryden 🍏
+
+## Web Developer from Lincolnshire, UK.
+
+### I'm a React/Node #developer by day and webpack extraordinaire by night. 
+
+**#secondchance since June 2019.**
+  
 
 <!--
 **mattdryden/mattdryden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
