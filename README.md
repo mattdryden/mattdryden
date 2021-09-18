@@ -1,8 +1,8 @@
-# Matt Dryden 🍏
+# Matt Dryden 🤖
 
 ## Web Developer from Lincolnshire, UK.
 
-### I'm a React/Node #developer by day and webpack extraordinaire by night. 
+### I'm a Symfony #developer by day and webpack extraordinaire by night. 
 
 **#secondchance since June 2019.**
   
